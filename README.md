@@ -12,3 +12,6 @@ The [HNG internship](https://hng.tech) is organised by the follow bodies below:
 
 
 ![i4g](https://user-images.githubusercontent.com/80979473/130098027-7af4fb57-4c77-4e19-81e5-60a5f8de98cf.jpg)
+
+
+![input_display](https://user-images.githubusercontent.com/80979473/130100260-693e7a51-6793-4970-8561-3af42c018c12.gif)
