@@ -1,5 +1,7 @@
 This is a task application that would take in users input and display the input.
 
+[CLICK TO TEST THE APPLICATION](https://appetize.io/app/g2c92hae5r997dywcwna10ypdr)
+
 The [HNG internship](https://hng.tech) is organised by the follow bodies below:
 
 [The Zuri Team](https://internship.zuri.team)
